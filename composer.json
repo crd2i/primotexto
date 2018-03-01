@@ -1,0 +1,11 @@
+{
+    "name": "crd2i/primotexto",
+    "description": "PrimotextoDesc",
+    "authors": [
+        {
+            "name": "crd2i",
+            "email": "contact@crd2i.fr"
+        }
+    ],
+    "require": {}
+}
