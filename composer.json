@@ -2,6 +2,7 @@
     "name": "crd2i/primotexto",
     "description": "PrimotextoDesc",
     "version":"0.1",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "crd2i",
