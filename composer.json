@@ -1,6 +1,7 @@
 {
     "name": "crd2i/primotexto",
     "description": "PrimotextoDesc",
+    "version":"0.1",
     "authors": [
         {
             "name": "crd2i",
